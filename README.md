@@ -1,7 +1,5 @@
 # ImGui Overlay Example (C#)
 
-![Preview](Preview.png)
-
 A lightweight **external ImGui overlay** built in **C#** demonstrating custom GUI features, example options, and a slightly customized Dear ImGui interface. This project is designed for **educational purposes**, showing how to integrate Dear ImGui into an external overlay environment.
 
 ---
